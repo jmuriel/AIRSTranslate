@@ -1,5 +1,5 @@
 # AIRSTranslate
-A simple GUI application written in Python (tested on Linux and Windows) to interface with Google Translate for building automatic vocabulary lists from text files for select lanAguages, written by Jorge Muriel on behalf of the English as a Second Language teaching team at Arizona Immigrant and Refugee Services.
+A simple GUI application written in Python (tested on Linux and Windows) to interface with Google Translate for building automatic vocabulary lists from text files for select lanaguages, written by Jorge Muriel on behalf of the English as a Second Language teaching team at Arizona Immigrant and Refugee Services.
 
 # Modules
 The version of the program found here will not work without the google-cloud package installed on the host system.
